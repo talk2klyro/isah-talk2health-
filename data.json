@@ -1,15 +1,15 @@
 {
   "name": "Isah Abubakar Sadiq",
-  "role": "Public Health Tutor",
+  "role": "Public Health Tutor & Research Assistant",
   "photo": "https://i.postimg.cc/8c0BgPrR/IMG-20251026-WA0050.jpg",
   "button_url": "https://isah-talk2healthme.vercel.app",
   "theme": {
-    "primary": "#2563EB",
-    "secondary": "#E0F2FE",
-    "accent": "#1E40AF",
-    "gradient": "linear-gradient(135deg, #3B82F6, #1D4ED8)"
+    "primary": "#1E3A8A",
+    "secondary": "#EEF2FF",
+    "accent": "#4338CA",
+    "gradient": "linear-gradient(135deg, #1E3A8A, #3B82F6)"
   },
-  "bio": "Isah Abubakar Sadiq is a proactive Public Health Tutor who combines data-driven insight with community engagement. His sessions blend clarity, energy, and real-life impact, inspiring the next generation of health workers.",
+  "bio": "Isah Abubakar Sadiq is a passionate public health educator and early-career researcher committed to promoting community awareness and evidence-based health solutions. He mentors youth on preventive health and digital wellness practices.",
   "socials": {
     "facebook": "https://facebook.com/",
     "instagram": "https://instagram.com/",
